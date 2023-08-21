@@ -1,6 +1,6 @@
 const cardArray = [
     {
-        name: 'fries test',
+        name: 'fries',
         img: images/fries.png
     },
     {
